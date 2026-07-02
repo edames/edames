@@ -1,7 +1,6 @@
 ## [Hi there](https://www.ehrendames.com) 👋
 
 [<img src="x.svg" alt="X" />](https://x.com/edames)
-
 [<img src="linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/ehrendames/)
 
 My name is [Ehren Dames](https://www.ehrendames.com).
