@@ -5,7 +5,7 @@
 
 My name is [Ehren Dames](https://www.ehrendames.com).  I build experiences for the web.  An engineer that is adoptable as a seasoned developer and capable as a lead on projects.  Over ten years of focus on Content Management Systems such as Sitecore AI, Sanity, Sitefinity, Contentful and WordPress.
 
-I study both web and mobile technologies at [Masters.dev](https://frontendmasters.com/u/edames/):
+I study both web and mobile technologies at [Master.dev](https://master.dev/u/edames/):
 * React
 * TypeScript
 * React Native and Expo
