@@ -3,7 +3,14 @@
 [<img src="x.svg" alt="X" />](https://x.com/edames)
 [<img src="linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/ehrendames/)
 
-My name is [Ehren Dames](https://www.ehrendames.com).
+My name is [Ehren Dames](https://www.ehrendames.com).  I build experiences for the web.  An engineer that is adoptable as a seasoned developer and capable as a lead on projects.  Over ten years of focus on Content Management Systems such as Sitecore AI, Sanity, Sitefinity, Contentful and WordPress.
+
+I study both web and mobile technologies at [Masters.dev](https://frontendmasters.com/u/edames/):
+* React
+* TypeScript
+* React Native and Expo
+* Next.js
+* AI Agents and Prompt Engineering
 
 <!--
 **edames/edames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
